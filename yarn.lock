@@ -6516,10 +6516,10 @@ ts-pnp@^1.1.6:
   resolved "https://registry.npmjs.org/ts-pnp/-/ts-pnp-1.2.0.tgz#a500ad084b0798f1c3071af391e65912c86bca92"
   integrity sha512-csd+vJOb/gkzvcCHgTGSChYpy5f1/XKNsmvBGO4JXS+z1v2HobugDz4s1IeFXM3wZB44uczs+eazB5Q/ccdhQw==
 
-tsdav@^1.0.3:
-  version "1.0.3"
-  resolved "https://registry.npmjs.org/tsdav/-/tsdav-1.0.3.tgz#251bfc1d6fa6c931b5a97392162f7831a954dc49"
-  integrity sha512-2i5YoTIwQ801VbsOgZepydg90AL5pc3RtbqkbcIW0EHah1RaS5ZDSHIzWPyLvLaFWYwwJgcXGlwrVB7DznM6qQ==
+tsdav@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/tsdav/-/tsdav-1.1.0.tgz#48fe17df07f852ff8dfddf71fae2396e79ed6735"
+  integrity sha512-Cc/VTFgUC/fOOFkGT/xuwrrIrG0+it7WA5ywNM4QyYWAzXVw+WmbM1pr7/7fzHA/OOVQ0a8RyPi4K1C+mFBGJw==
   dependencies:
     base-64 "^1.0.0"
     cross-fetch "^3.1.4"
